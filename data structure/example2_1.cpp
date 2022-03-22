@@ -6,6 +6,7 @@ void main() {
 	short s, s_array[100];
 	float f, f_array[100];
 	long l, l_array[100];
+	int a;
 
 	printf("\n char c 农扁 = %d \t: char c_array 农扁 = %4d", sizeof(c), sizeof(c_array));
 	printf("\n int i 农扁 = %d \t: int i_array 农扁 = %4d", sizeof(i), sizeof(i_array));
