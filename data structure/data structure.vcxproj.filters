@@ -57,7 +57,7 @@
     <ClCompile Include="exercise_4-3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="exerecise_4-5.cpp">
+    <ClCompile Include="exercise_4-5.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="exercise_5-1.cpp">
@@ -76,6 +76,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="exercise_6-2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_6-3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
