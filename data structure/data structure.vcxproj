@@ -142,7 +142,9 @@
     <ClCompile Include="example2_1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="exercise_7-4.cpp" />
+    <ClCompile Include="exercise_7-4.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="exercise2_2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -209,6 +211,7 @@
     <ClCompile Include="exercise_7-1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="exercise_7-6.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="addPoly.h">
