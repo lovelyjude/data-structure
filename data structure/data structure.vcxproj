@@ -214,7 +214,10 @@
     <ClCompile Include="exercise_7-6.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="exercise_8-1.cpp" />
+    <ClCompile Include="exercise_8-1.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="exercise_8-2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="addPoly.h">
